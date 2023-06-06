@@ -21,6 +21,7 @@ print(result, unans)
 ```
 
 OUTPUT :
+
 ![image](https://github.com/aparnabalasubrmanian/EX-7/assets/123351172/0fdb5179-e262-4240-b4a0-80239a996818)
 
 RESULT :
